@@ -1,0 +1,9 @@
+
+body{
+  background-color: aquamarine;
+}
+#random-string {
+  margin: 15vh 40%;
+  display: flex;
+  flex-direction: column;
+}

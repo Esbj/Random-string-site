@@ -1,0 +1,24 @@
+{
+  "name": "random-string-site",
+  "version": "1.0.0",
+  "description": "a school project to host a site using some npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esbj/Random-string-site.git"
+  },
+  "author": "Alexander Esbjörnsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esbj/Random-string-site/issues"
+  },
+  "homepage": "https://github.com/Esbj/Random-string-site#readme",
+  "dependencies": {
+    "npm-generatestring": "^1.0.0",
+    "random-string-esb": "^1.0.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
